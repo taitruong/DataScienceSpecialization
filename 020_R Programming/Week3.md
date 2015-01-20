@@ -108,7 +108,7 @@ Example 2:
 
 Used to evaluate a function over the margins of an array
 
-- not faster than writing a a loop, but works in one line
+- not faster than writing a loop, but works in one line
 Arguments:
 
 - array/matrix x
